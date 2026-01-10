@@ -13,5 +13,6 @@ Currently building cool tools and libraries while learning every day.
 * **[Principium](https://github.com/rarescovei5/Principium)** – Hosts the backend for Principium apps such as the VSC Snippet Extension, as well as the Principium Store, an app for easily downloading Principium apps (similar to the Microsoft Store).
 * **[VSC Snippet Extension](https://github.com/rarescovei5/VSC-Snippet-Extension)** – A Visual Studio Code extension that makes managing and discovering snippets easy through an integrated webview directly inside the editor.
 * **[jUnity](https://github.com/rarescovei5/jUnity)** – A very minimal game engine written in JavaScript. It supports rendering triangles, squares, and circles, along with collision logic for each shape.
+* **[Synclite](https://github.com/rarescovei5/SyncLite)** - A lightweight, rust CLI tool for fast and efficient file synchronization, inspired by Syncthing.
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rarescovei5&theme=transparent&hide_border=true)
